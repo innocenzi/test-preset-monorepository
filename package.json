@@ -1,0 +1,11 @@
+{
+  "name": "test-preset-monorepository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/innocenzi/test-preset-monorepository",
+  "author": "Enzo Innocenzi <enzo@innocenzi.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "use-preset": "^0.1.10"
+  }
+}
